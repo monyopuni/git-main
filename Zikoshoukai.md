@@ -17,4 +17,7 @@
 - 読むこと、観ること
   -本を読んだり、映画を観たり。
 
+# 今後の予定
+- 9/1 coinsLT#1000 登壇 [イベントURL](https://amakubo.connpass.com/event/288675/)
+
 # SNS・Webリンク
