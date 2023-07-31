@@ -1,3 +1,3 @@
 # monyopuni-main
 
-I use this repositori usulally.(maybe)
+I use this repositori usulally.（知らんけど。）
